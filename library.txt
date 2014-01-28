@@ -1,0 +1,83 @@
+[reference]
+type=book
+callNumber=0385682182
+author(s)=Ron Burgundy
+title=Let Me Off At The Top!
+publisher=Doubleday Canada
+year=2013
+
+[reference]
+type=book
+callNumber=1552858715
+author(s)=Shelley Adams
+title=Whitewater Cooks
+publisher=Whitecap Books
+year=2008
+
+[reference]
+type=journal
+callNumber=22121640
+title=AIP Conference Proceedings
+organization=AIP Publishing LLC
+year=2012
+
+[reference]
+type=book
+callNumber=1118480325
+author(s)=Julian Knight
+title=Cricket For Dummies
+publisher=For Dummies
+year=2013
+
+[reference]
+type=book
+callNumber=0143170996
+author(s)=Alice Munro
+title=Too Much Happiness
+publisher=Penguin Canada
+year=2010
+
+[reference]
+type=book
+callNumber=0316322407
+author(s)=Malala Yousafzai, Christina Lamb
+title=I Am Malala
+publisher=Little, Brown and Company
+year=2013
+
+[reference]
+type=journal
+callNumber=22098988
+title=Journal of Chemical Physics
+organization=American Institute of Physics
+year=2012
+
+[reference]
+type=journal
+callNumber=22066671
+title=Quantum Electronics
+organization=International Atomic Energy Agency (IAEA)
+year=2012
+
+[reference]
+type=book
+callNumber=0316322407
+author(s)=Clint Hill, Lisa McCubbin
+title=Five Days in November
+publisher=Gallery Books
+year=2013
+
+[reference]
+type=journal
+callNumber=22126785
+title=Astrophysical Journal
+organization=International Atomic Energy Agency (IAEA)
+year=2013
+
+[reference]
+type=journal
+callNumber=10153233
+title=72 PHYSICS OF ELEMENTARY PARTICLES AND FIELDS
+organization=Sandia National Laboratories
+year=1964
+
