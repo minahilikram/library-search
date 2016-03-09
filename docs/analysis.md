@@ -20,9 +20,9 @@ The program has a menu of options to choose from; add, search and/or quit. I ad
 - all the title keywords searched for have to match an entry in the list in order to get a result, e.g. if “Mona is awesome” is entered then all titles that contain all three of the words will return positive
 - search query will have to match all three inputs unless nothing is entered e.g. if all three do not match the results will be negative
 - call number and year must be unique for each entry, e.g. a book and journal may not have an entry with identical call number and year
-- File IO must be the format provided in order to read in references properly with a newline between entries,
+- File IO must be the format provided in order to read in references properly with a newline between entries;
 
-| example |
+> | example |
 | :------------------: |
 | [reference]  |
 | type=journal |
