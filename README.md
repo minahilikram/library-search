@@ -1,31 +1,20 @@
-************
-General
-************
-	LibrarySearch :
-		the program allows users to add books or journals to al ibrary of books
-		
-		user input for adding books or journals is accepted in a particular order, call number, title and year must be entered, others can be left blank
-		
-		user may also search for a particular journal or book within the library
+# library-search
 
+The program allows users to add/search books/journals to/from a library. User input for adding books/journals is accepted in a particular order; call number, title and year must be entered, others can be left blank.
 
-************
-Compilation
-************
-	LibrarySearch :
-		open mikram_a3.tar.gz src > librarysearch > LibrarySearch.java in netbeans
-		
-		once netbeans is open select Run > Compile File or F9
+## Install
 
+```sh
+$ git clone https://github.com/minahilikram/library-search
+```
 
-************
-Running the program(s)
-************
-	LibrarySearch :
-		open mikram_a3.tar.gz src > librarysearch > LibrarySearch.java in netbeans
+## Usage
 
-		once netbeans is open select > Run > Run File or Shift+F6
-
+```sh
+$ cd library-search/
+$ javac LibrarySearch.java
+$ java start.LibrarySearch
+```
 
 ************
 Assumption(s) and limitation(s)
