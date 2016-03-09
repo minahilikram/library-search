@@ -7,6 +7,7 @@
 - search query will have to match all three inputs unless nothing is entered e.g. if all three do not match the results will be negative
 - call number and year must be unique for each entry, e.g. a book and journal may not have an entry with identical call number and year
 - File IO must be the format provided in order to read in references properly with a newline between entries,
+
 > e.g. [reference]
 
 > type=journal
