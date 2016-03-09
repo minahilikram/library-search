@@ -9,16 +9,11 @@
 - File IO must be the format provided in order to read in references properly with a newline between entries,
 
 > e.g. [reference]
-
-> type=journal
-
-> callNumber=3131s
-
-> title=book of computers
-
-> organization=""
-
-> year= 1996
+type=journal
+callNumber=3131s
+title=book of computers
+organization=""
+year= 1996
 
 - if the file provided has duplicates, this will be accepted and there will remain duplicates of those entries
 - File IO writes and reads from the same file
