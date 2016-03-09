@@ -22,6 +22,10 @@ The program has a menu of options to choose from; add, search and/or quit. I ad
 - call number and year must be unique for each entry, e.g. a book and journal may not have an entry with identical call number and year
 - File IO must be the format provided in order to read in references properly with a newline between entries,
 
+| [reference] 
+| :------------------: |
+| type=journal |
+
 > e.g. [reference]  \n  type=journal  \n  callNumber=3131s  \n  title=book of computers  \n  organization=""  \n  year= 1996
 
 - if the file provided has duplicates, this will be accepted and there will remain duplicates of those entries
