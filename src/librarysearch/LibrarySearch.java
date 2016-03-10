@@ -13,7 +13,6 @@ import utils.FileIO;
 /**
  *<p>Main class for adding or searching to and from the library respectively.</p>
  * 
- * @author Daniel Vijayakumar CIS*2430 Lab 3 Solution
  * @author mikram
  */
 public class LibrarySearch {
