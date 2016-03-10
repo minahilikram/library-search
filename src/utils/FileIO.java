@@ -1,4 +1,4 @@
-package librarysearch;
+package utils;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -17,6 +17,8 @@ import reference.Reference;
 
 /**
  * Handles the reading/writing of data from/to files.
+ * 
+ * @author Daniel Vijayakumar CIS*2430 Lab 3 Solution
  * @author mikram
  * 
  */

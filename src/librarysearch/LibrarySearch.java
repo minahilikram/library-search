@@ -13,6 +13,7 @@ import utils.FileIO;
 /**
  *<p>Main class for adding or searching to and from the library respectively.</p>
  * 
+ * @author Daniel Vijayakumar CIS*2430 Lab 3 Solution
  * @author mikram
  */
 public class LibrarySearch {
@@ -36,7 +37,7 @@ public class LibrarySearch {
     /**
      * <p>Path to the file containing saved books/journals.</p>
      */
-    private static final String DATA_FILE_PATH = "\\library.txt";
+    private static final String DATA_FILE_PATH = "build\\classes\\utils\\data\\library.txt";
     
     /*
      * -------------
